@@ -603,13 +603,13 @@
       }
     },
     "octen": {
-      "sha": "825363e074f6aa835368ab8358ff6be9fa050f1f",
+      "sha": "9b4196bf8e83de74aa80e97ba295ae91ab65ef39",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
           {
             "name": "octen",
-            "description": "stdio"
+            "description": "http"
           }
         ],
         "skills": [
